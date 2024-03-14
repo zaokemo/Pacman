@@ -4,7 +4,7 @@ Creating Pac-Man in Unity can be a fun project! Here's a technical document outl
 Create a new Unity project.
 Set up the scene with a grid-based layout resembling the Pac-Man maze. You can use Unity's built-in 2D tools or create your maze using sprites.
 
-2.Player Control:
+2. Player Control:
 Create a player GameObject for Pac-Man.
 Implement player movement using Unity's input system. Pac-Man moves on a grid, so ensure that movement is constrained to grid cells.
 Handle user input to change Pac-Man's direction.
